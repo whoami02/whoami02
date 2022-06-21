@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whoami02
+- 👋 Hi, I’m @whoami02 (Abhishek)
 - 👀 I’m interested in Deep Learning and Machine Learning
 - 🌱 I’m currently doing Mtech at IIIT Sri City.
 - 💞️ I’m looking to collaborate on any project that involves Deep Learning, Machine Learning or Data Science
