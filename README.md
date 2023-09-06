@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @whoami02 (Abhishek)
-- 👀 I’m interested in Deep Learning and Machine Learning
-- 🌱 I’m currently doing Mtech at IIIT Sri City.
-- 💞️ I’m looking to collaborate on any project that involves Deep Learning, Machine Learning or Data Science
-- 📫 How to reach me? <br> -> mail_to - abhuwani@gmail.com <br>
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 I’m a postgraduate in ML from IIIT Sri City.
+- 💞️ I’m looking to collaborate on any project that involves Deep Learning, Machine Learning, or Data Science
+- 📫 How to reach me? <br> -> mail_to - abhishekwani02@gmail.com <br>
                     or connect on LinkedIn at https://www.linkedin.com/in/abhishek-wani/
 
 <!---
