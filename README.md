@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whoami02 (Abhishek)
-- 👀 My interests align with the umbrella of all that comes under ML/AI in general. 
-- 🌱 I’m a postgraduate in ML from IIIT Sri City.
-- 💞️ I’m looking to collaborate on any project that involves Deep Learning, Machine Learning, or Data Science
+- 💞️ Love working on real world application of ML, Deep learning and gen AI; worked on Federated Learning in past.
+- 🌱 Working as AI/ML Engineer.
+- 👀 My interests align under the umbrella of all that comes under ML/AI in general. 
 - 📫 How to reach me? <br> -> mail_to - abhishekwani02@gmail.com <br>
                     or connect on LinkedIn at https://www.linkedin.com/in/abhishek-wani/
 
