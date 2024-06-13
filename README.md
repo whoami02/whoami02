@@ -1,7 +1,7 @@
 - 👋 Hi, Abhishek here!
 - 💞️ Love working on real world application of ML, Deep learning and gen AI; worked on Federated Learning in past.
 - 🌱 Working as an AI/ML Engineer.
-- 👀 My interests align under the umbrella of all that comes under ML/AI in general. 
+- 👀 My interests align under the umbrella of all that comes under ML/AI. 
 - 📫 How to reach me? <ul> <li>mail: abhishekwani02@gmail.com </li>
                     <li>LinkedIn:<a src="https://www.linkedin.com/in/abhishek-wani/"> https://www.linkedin.com/in/abhishek-wani/</a></li></ul>
 
