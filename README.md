@@ -17,7 +17,7 @@ I'm an AI/ML Engineer passionate about pushing the boundaries of technology thro
 
 ### 🌟 Professional Experience
 - Working as an AI/ML Engineer
-- Previous work in Federated Learning - [Research Publication](https://ui.adsabs.harvard.edu/abs/2024arXiv240717999A/abstract)
+- Previous work in Federated Learning - [My work](https://ui.adsabs.harvard.edu/abs/2024arXiv240717999A/abstract)
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-wani/)
